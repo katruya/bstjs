@@ -17,3 +17,5 @@ class Node {
         return this.right;
     }
 }
+
+export default binary_node;
