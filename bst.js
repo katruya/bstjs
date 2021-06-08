@@ -31,11 +31,8 @@ class BinarySearchTree {
                     return this;
                 }
                 current = current.right;
-            }
-            
+            } 
         }
-
-        
     }
 
     getRootNode() {
