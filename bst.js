@@ -1,4 +1,4 @@
-import Node from './binary_node';
+import Node from './binary_node.js';
 
 class BinarySearchTree {
     constructor() {
@@ -39,3 +39,5 @@ class BinarySearchTree {
         return this.root;
     }
 }
+
+export default BinarySearchTree;
